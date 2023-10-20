@@ -32,7 +32,7 @@ The **LIST_Tools_Pro_At_3_Addin** has tools to
 
 ## How to get the addin
 
-* Download the [latest release](https://github.com/DPIPWE/LIST_Tools_Pro_Addin/releases/latest) (targets ArcGIS Pro 2.6+) 
+* Download the [latest release](https://github.com/DPIPWE/LIST_Tools_Pro_At_3_Addin/releases/latest) (targets ArcGIS 3.0+) 
 
 * UnZip the archive
 
